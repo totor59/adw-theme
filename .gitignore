@@ -1,7 +1,8 @@
 # Ignore docs files
 # _gh_pages
 # _site
-# site/docs/4.1/dist/
+site/docs/4.1/dist/
+dist/
 
 # Ignore ruby files
 .ruby-version
